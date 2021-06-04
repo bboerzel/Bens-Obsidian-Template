@@ -2,6 +2,7 @@
 Hey there, this is how I have setup Obsidian as my second brain / personal knowledge management system / task manager.
 Maybe it helps you getting started or inspires you for your Osidian setup. I added some sample content so it makes more sense.
 For more ideas, check out the obsidian forum:  [Latest Share & showcase topics - Obsidian Forum](https://forum.obsidian.md/c/share-showcase/9)
+**Best thing you donwload this repository and open it up as vault in obsidian!**
 
 ## Knowledge Management
 My personal knowledge management system (pkms) is inspired by Niklas Luhmanns **Zettelkasten** system but not as strictly followed. I try breaking stuff down and linking them together.
