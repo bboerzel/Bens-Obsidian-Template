@@ -1,0 +1,5 @@
+.trash/
+.DS_Store
+.obsidian/cache
+.obsidian/workspace
+.obsidian-git-data

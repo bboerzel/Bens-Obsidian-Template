@@ -1,0 +1,35 @@
+/*special tags*/
+  
+  .tag[href^="#idea"], .cm-s-obsidian .CodeMirror-line span.cm-tag-idea {
+    color: var(--orange) !important;
+  }
+  
+  .tag[href^="#bit"], .cm-s-obsidian .CodeMirror-line span.cm-tag-bit {
+    color: var(--white) !important;
+    border: none;
+    padding: 1px 2px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 0px;
+    border-radius: 5px;
+    background-color: var(--purple) ;
+  }
+    
+  .tag[href^="#todo"], .cm-s-obsidian .CodeMirror-line span.cm-tag-todo {
+    color: var(--gray-0) !important;
+    border: none;
+    padding: 1px 2px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 0px;
+    border-radius: 5px;
+    background-color: var(--red) ;
+  }
+
+  /* Make fancy lines*/
+  .markdown-preview-view  hr {
+    border: 0;
+    height: 1px;
+    background: #6272a4;
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(#282a36), to(#282a36), color-stop(50%, #6272a4)) !important;
+}
